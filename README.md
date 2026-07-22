@@ -1,6 +1,8 @@
 
 # Customer Behavior Analytics Dashboard ( SQL + Python + Power BI)
 
+
+
 📌  **Project Overview**
 
 This project is a complete end-to-end Customer Behavior Analytics solution that demonstrates how raw retail customer data can be transformed into meaningful business insights using Python, SQL, and Power BI.
@@ -40,9 +42,15 @@ This project answers important business questions such as:
 
 
 
+
+
+
 🛠️ ***Tech Stack***
 
 <img width="671" height="510" alt="image" src="https://github.com/user-attachments/assets/dc2b19ce-a5ef-41d7-b459-cf27e886f319" />
+
+
+
 
 
 
@@ -81,10 +89,16 @@ The dataset contains retail customer purchasing information including:
 
 
 
+
+
+
 📂 ***Project Structure***
 
 
 <img width="971" height="810" alt="image" src="https://github.com/user-attachments/assets/37b84e91-2e5a-41b2-a353-52e9accd7620" />
+
+
+
 
 
 
@@ -108,6 +122,9 @@ The following preprocessing steps were performed:
 
 
 
+
+
+
 📈 ***Exploratory Data Analysis***
 
 EDA was performed to understand customer behavior through:
@@ -127,6 +144,9 @@ EDA was performed to understand customer behavior through:
 •	Customer Rating Analysis
 
 •	Payment Method Analysis
+
+
+
 
 
 
@@ -170,6 +190,9 @@ Business questions solved using SQL include:
 •	Shopping Frequency
 
 •	Payment Preferences
+
+
+
 
 
 
@@ -220,6 +243,9 @@ The dashboard includes:
 •	Payment Method
 
 
+
+
+
 📌 ***Key Insights***
 
 Some important business insights generated from the analysis include:
@@ -238,6 +264,9 @@ Some important business insights generated from the analysis include:
 
 
 
+
+
+
 💡 ***Business Recommendations***
 
 •	Increase loyalty rewards for repeat customers.
@@ -251,6 +280,9 @@ Some important business insights generated from the analysis include:
 •	Offer seasonal promotions during peak shopping periods.
 
 •	Improve engagement with low-frequency customers.
+
+
+
 
 
 
@@ -278,11 +310,17 @@ This project showcases practical skills in:
 
 
 
+
+
+
 📸 ***Dashboard Preview***
 
 Add your Power BI Dashboard Screenshot here
 
 Dashboard Screenshots/dashboard.png
+
+
+
 
 
 
