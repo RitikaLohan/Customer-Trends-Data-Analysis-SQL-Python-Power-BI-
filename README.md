@@ -26,6 +26,12 @@ The objective of this project is to analyze customer purchasing behavior, identi
 
 
 
+
+
+
+
+
+
 🎯 ***Business Problem***
 
 Retail businesses collect large volumes of customer transaction data but often struggle to convert that data into actionable insights.
