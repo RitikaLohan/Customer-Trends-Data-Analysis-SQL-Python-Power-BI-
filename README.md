@@ -1,380 +1,293 @@
+# Customer Behavior Analytics Dashboard (SQL + Python + Power BI)
 
-# Customer Behavior Analytics Dashboard ( SQL + Python + Power BI)
+## 📌 Project Overview
 
+This project is a complete end-to-end Customer Behavior Analytics solution that demonstrates how raw retail customer data can be transformed into meaningful business insights using **Python, SQL, and Power BI**.
 
+The objective of this project is to analyze customer purchasing behavior, identify high-value customer segments, understand shopping patterns, and provide data-driven recommendations that improve customer retention and business performance.
 
-📌  **Project Overview**
+### Analytics Lifecycle
 
-This project is a complete end-to-end Customer Behavior Analytics solution that demonstrates how raw retail customer data can be transformed into meaningful business insights using Python, SQL, and Power BI.
-The objective of this project is to analyze customer purchasing behavior, identify high-value customer segments, understand shopping patterns, and provide data-driven recommendations that can improve customer retention and business performance.
-<br>
+🔹 Data Collection
 
-***This project follows the complete analytics lifecycle including:***
+🔹 Data Cleaning & Preprocessing
 
-•	Data Collection
+🔹 Exploratory Data Analysis (EDA)
 
-•	Data Cleaning & Preprocessing
+🔹 SQL Business Analysis
 
-•	Exploratory Data Analysis (EDA)
+🔹 Interactive Power BI Dashboard
 
-•	SQL Business Analysis
+🔹 Business Insights & Recommendations
 
-•	Interactive Power BI Dashboard
+---
 
-•	Business Insights & Recommendations
-
-
-
-
-
-
-
-
-
-
-🎯 ***Business Problem***
+## 🎯 Business Problem
 
 Retail businesses collect large volumes of customer transaction data but often struggle to convert that data into actionable insights.
 
-This project answers important business questions such as:
+This project answers questions such as:
 
-•	Who are the most valuable customers?
+🔹 Who are the most valuable customers?
 
-•	Which customer segments generate the highest revenue?
+🔹 Which customer segments generate the highest revenue?
 
-•	What factors influence purchasing behavior?
+🔹 What factors influence purchasing behavior?
 
-•	Which product categories perform best?
+🔹 Which product categories perform best?
 
-•	How can customer loyalty be improved?
+🔹 How can customer loyalty be improved?
 
+---
 
+## 🛠️ Tech Stack
 
+<img width="671" height="510" alt="image" src="YOUR_IMAGE_LINK">
 
+---
 
-
-🛠️ ***Tech Stack***
-
-
-
-<img width="671" height="510" alt="image" src="https://github.com/user-attachments/assets/dc2b19ce-a5ef-41d7-b459-cf27e886f319" />
-
-
-
-
-
-
-📊 ***Dataset Information***
+## 📊 Dataset Information
 
 The dataset contains retail customer purchasing information including:
 
-•	Customer ID
+✅ Customer ID
 
-•	Age
+✅ Age
 
-•	Gender
+✅ Gender
 
-•	Product Category
+✅ Product Category
 
-•	Purchase Amount
+✅ Purchase Amount
 
-•	Payment Method
+✅ Payment Method
 
-•	Shopping Mall
+✅ Shopping Mall
 
-•	Review Rating
+✅ Review Rating
 
-•	Frequency of Purchase
+✅ Frequency of Purchase
 
-•	Discount Applied
+✅ Discount Applied
 
-•	Subscription Status
+✅ Subscription Status
 
-•	Previous Purchases
+✅ Previous Purchases
 
-•	Shipping Type
+✅ Shipping Type
 
-•	Season
+✅ Season
 
-•	Purchase Date
+✅ Purchase Date
 
+---
 
+## 📂 Project Structure
 
+<img width="971" height="810" alt="image" src="YOUR_IMAGE_LINK">
 
+---
 
-
-
-📂 ***Project Structure***
-
-
-<img width="971" height="810" alt="image" src="https://github.com/user-attachments/assets/37b84e91-2e5a-41b2-a353-52e9accd7620" />
-
-
-
-
-
-
-
-🧹 ***Data Cleaning***
+## 🧹 Data Cleaning
 
 The following preprocessing steps were performed:
 
-•	Removed duplicate records
+🔹 Removed duplicate records
 
-•	Checked missing values
+🔹 Checked missing values
 
-•	Standardized column names
+🔹 Standardized column names
 
-•	Converted data types
+🔹 Converted data types
 
-•	Handled inconsistent values
+🔹 Handled inconsistent values
 
-•	Created derived columns
+🔹 Created derived columns
 
-•	Feature formatting
+🔹 Feature formatting
 
+---
 
-
-
-
-
-
-📈 ***Exploratory Data Analysis***
+## 📈 Exploratory Data Analysis
 
 EDA was performed to understand customer behavior through:
 
-•	Purchase Distribution
+📊 Purchase Distribution
 
-•	Gender Analysis
+📊 Gender Analysis
 
-•	Age Distribution
+📊 Age Distribution
 
-•	Revenue Analysis
+📊 Revenue Analysis
 
-•	Product Category Analysis
+📊 Product Category Analysis
 
-•	Seasonal Sales Trends
+📊 Seasonal Sales Trends
 
-•	Customer Rating Analysis
+📊 Customer Rating Analysis
 
-•	Payment Method Analysis
+📊 Payment Method Analysis
 
+---
 
+## 🗄️ SQL Analysis
 
+### Customer Analysis
 
+🔹 Total Customers
 
+🔹 Active Customers
 
+🔹 Customer Segmentation
 
+### Sales Analysis
 
+🔹 Total Revenue
 
-🗄️ ***SQL Analysis***
+🔹 Average Purchase Value
 
-Business questions solved using SQL include:
+🔹 Highest Spending Customers
 
-*Customer Analysis*
+### Product Analysis
 
-(1)	Total Customers
+🔹 Best Selling Categories
 
-(2)	Active Customers
+🔹 Revenue by Category
 
-(3)	Customer Segmentation
+### Loyalty Analysis
 
+🔹 Repeat Customers
 
-*Sales Analysis*
+🔹 Subscription Analysis
 
-(1)	Total Revenue
+### Shopping Trends
 
-(2) Average Purchase Value
+🔹 Seasonal Purchases
 
-(3)	Highest Spending Customers
+🔹 Shopping Frequency
 
-*Product Analysis*
+🔹 Payment Preferences
 
-(1)	Best Selling Categories
+---
 
-(2)	Revenue by Category
+## 📊 Power BI Dashboard
 
-*Loyalty Analysis*
+### KPI Cards
 
-(1)	Repeat Customers
+📌 Total Revenue
 
-(2)	Subscription Analysis
+📌 Total Customers
 
-*Shopping Trends*
+📌 Average Purchase
 
-(1)	Seasonal Purchases
+📌 Customer Satisfaction
 
-(2)	Shopping Frequency
+### Interactive Charts
 
-(3)	Payment Preferences
+📈 Sales by Category
 
+📈 Revenue by Gender
 
+📈 Customer Age Distribution
 
+📈 Purchase Trend
 
+📈 Shopping Frequency
 
+📈 Payment Method Analysis
 
+📈 Seasonal Sales
 
-📊 ***Power BI Dashboard***
+📈 Loyalty Status
 
-The dashboard includes:
+### Filters
 
+🎯 Gender
 
-✅ KPI Cards
+🎯 Category
 
-•	Total Revenue
+🎯 Season
 
-•	Total Customers
+🎯 Location
 
-•	Average Purchase
+🎯 Subscription
 
-•	Customer Satisfaction
+🎯 Payment Method
 
+---
 
-✅ Interactive Charts
+## 📌 Key Insights
 
-•	Sales by Category
+💡 High-value customers contribute significantly to total revenue.
 
-•	Revenue by Gender
+💡 Repeat customers generate higher average purchase values.
 
-•	Customer Age Distribution
+💡 Certain product categories consistently outperform others.
 
-•	Purchase Trend
+💡 Seasonal trends strongly influence customer purchasing behavior.
 
-•	Shopping Frequency
+💡 Subscription members show greater purchase frequency.
 
-•	Payment Method Analysis
+💡 Digital payment methods are preferred by most customers.
 
-•	Seasonal Sales
+---
 
-•	Loyalty Status
+## 💡 Business Recommendations
 
+🚀 Increase loyalty rewards for repeat customers.
 
+🚀 Launch personalized marketing campaigns.
 
+🚀 Focus inventory planning on high-performing product categories.
 
-✅ Filters
+🚀 Promote subscription membership to improve retention.
 
-•	Gender
+🚀 Offer seasonal promotions during peak shopping periods.
 
-•	Category
+🚀 Improve engagement with low-frequency customers.
 
-•	Season
+---
 
-•	Location
+## 🚀 Skills Demonstrated
 
-•	Subscription
+✔️ Data Cleaning
 
-•	Payment Method
+✔️ Data Transformation
 
+✔️ Exploratory Data Analysis
 
+✔️ SQL Query Writing
 
+✔️ Business Intelligence
 
+✔️ Dashboard Development
 
+✔️ Data Visualization
 
+✔️ Business Problem Solving
 
-📌 ***Key Insights***
+✔️ Reporting & Storytelling
 
-Some important business insights generated from the analysis include:
+---
 
-•	High-value customers contribute significantly to total revenue.
+## 📸 Dashboard Preview
 
-•	Repeat customers generate higher average purchase values.
+> Add your Power BI Dashboard Screenshot here.
 
-•	Certain product categories consistently outperform others.
+---
 
-•	Seasonal trends strongly influence customer purchasing behavior.
+## 📚 Learning Outcomes
 
-•	Subscription members show greater purchase frequency.
+🎓 End-to-End Data Analytics Workflow
 
-•	Digital payment methods are preferred by most customers.
+🎓 Real-world Business Problem Solving
 
+🎓 Customer Behavior Analysis
 
+🎓 SQL for Business Insights
 
+🎓 Dashboard Design
 
+🎓 Data Storytelling
 
-
-
-
-💡 ***Business Recommendations***
-
-•	Increase loyalty rewards for repeat customers.
-
-•	Launch personalized marketing campaigns.
-
-•	Focus inventory planning on high-performing product categories.
-
-•	Promote subscription membership to improve retention.
-
-•	Offer seasonal promotions during peak shopping periods.
-
-•	Improve engagement with low-frequency customers.
-
-
-
-
-
-
-
-
-
-🚀 ***Skills Demonstrated***
-
-This project showcases practical skills in:
-
-•	Data Cleaning
-
-•	Data Transformation
-
-•	Exploratory Data Analysis
-
-•	SQL Query Writing
-
-•	Business Intelligence
-
-•	Dashboard Development
-
-•	Data Visualization
-
-•	Business Problem Solving
-
-•	Reporting & Storytelling
-
-
-
-
-
-
-
-
-📸 ***Dashboard Preview***
-
-Add your Power BI Dashboard Screenshot here
-
-Dashboard Screenshots/dashboard.png
-
-
-
-
-
-
-
-
-📚 ***Learning Outcomes***
-
-By completing this project, I gained hands-on experience in:
-
-•	End-to-End Data Analytics Workflow
-
-•	Real-world Business Problem Solving
-
-•	Customer Behavior Analysis
-
-•	SQL for Business Insights
-
-•	Dashboard Design
-
-•	Data Storytelling
-
-•	Portfolio Development
-
-
-
+🎓 Portfolio Development
