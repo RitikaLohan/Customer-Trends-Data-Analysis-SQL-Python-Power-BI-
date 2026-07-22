@@ -3,7 +3,7 @@
 
 
 
-📌 # **Project Overview**
+📌  **Project Overview**
 
 This project is a complete end-to-end Customer Behavior Analytics solution that demonstrates how raw retail customer data can be transformed into meaningful business insights using Python, SQL, and Power BI.
 The objective of this project is to analyze customer purchasing behavior, identify high-value customer segments, understand shopping patterns, and provide data-driven recommendations that can improve customer retention and business performance.
@@ -21,6 +21,8 @@ The objective of this project is to analyze customer purchasing behavior, identi
 •	Interactive Power BI Dashboard
 
 •	Business Insights & Recommendations
+
+
 
 
 
@@ -47,6 +49,8 @@ This project answers important business questions such as:
 
 🛠️ ***Tech Stack***
 
+
+
 <img width="671" height="510" alt="image" src="https://github.com/user-attachments/assets/dc2b19ce-a5ef-41d7-b459-cf27e886f319" />
 
 
@@ -55,6 +59,7 @@ This project answers important business questions such as:
 
 
 📊 ***Dataset Information***
+
 The dataset contains retail customer purchasing information including:
 
 •	Customer ID
@@ -92,10 +97,12 @@ The dataset contains retail customer purchasing information including:
 
 
 
+
 📂 ***Project Structure***
 
 
 <img width="971" height="810" alt="image" src="https://github.com/user-attachments/assets/37b84e91-2e5a-41b2-a353-52e9accd7620" />
+
 
 
 
@@ -119,6 +126,7 @@ The following preprocessing steps were performed:
 •	Created derived columns
 
 •	Feature formatting
+
 
 
 
@@ -150,46 +158,50 @@ EDA was performed to understand customer behavior through:
 
 
 
+
+
+
 🗄️ ***SQL Analysis***
 
 Business questions solved using SQL include:
 
 *Customer Analysis*
 
-•	Total Customers
+(1)	Total Customers
 
-•	Active Customers
+(2)	Active Customers
 
-•	Customer Segmentation
+(3)	Customer Segmentation
 
 
 *Sales Analysis*
 
-•	Total Revenue
+(1)	Total Revenue
 
-•	Average Purchase Value
+(2) Average Purchase Value
 
-•	Highest Spending Customers
+(3)	Highest Spending Customers
 
 *Product Analysis*
 
-•	Best Selling Categories
+(1)	Best Selling Categories
 
-•	Revenue by Category
+(2)	Revenue by Category
 
 *Loyalty Analysis*
 
-•	Repeat Customers
+(1)	Repeat Customers
 
-•	Subscription Analysis
+(2)	Subscription Analysis
 
 *Shopping Trends*
 
-•	Seasonal Purchases
+(1)	Seasonal Purchases
 
-•	Shopping Frequency
+(2)	Shopping Frequency
 
-•	Payment Preferences
+(3)	Payment Preferences
+
 
 
 
@@ -200,6 +212,7 @@ Business questions solved using SQL include:
 
 The dashboard includes:
 
+
 ✅ KPI Cards
 
 •	Total Revenue
@@ -209,6 +222,7 @@ The dashboard includes:
 •	Average Purchase
 
 •	Customer Satisfaction
+
 
 ✅ Interactive Charts
 
@@ -228,6 +242,9 @@ The dashboard includes:
 
 •	Loyalty Status
 
+
+
+
 ✅ Filters
 
 •	Gender
@@ -241,6 +258,8 @@ The dashboard includes:
 •	Subscription
 
 •	Payment Method
+
+
 
 
 
@@ -267,6 +286,8 @@ Some important business insights generated from the analysis include:
 
 
 
+
+
 💡 ***Business Recommendations***
 
 •	Increase loyalty rewards for repeat customers.
@@ -280,6 +301,9 @@ Some important business insights generated from the analysis include:
 •	Offer seasonal promotions during peak shopping periods.
 
 •	Improve engagement with low-frequency customers.
+
+
+
 
 
 
@@ -313,11 +337,15 @@ This project showcases practical skills in:
 
 
 
+
+
 📸 ***Dashboard Preview***
 
 Add your Power BI Dashboard Screenshot here
 
 Dashboard Screenshots/dashboard.png
+
+
 
 
 
