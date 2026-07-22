@@ -42,7 +42,8 @@ This project answers questions such as:
 
 ## 🛠️ Tech Stack
 
-<img width="671" height="510" alt="image" src="YOUR_IMAGE_LINK">
+<img width="667" height="511" alt="image" src="https://github.com/user-attachments/assets/6e4a1250-db81-43c7-9dd0-ac2676bf4d81" />
+
 
 ---
 
@@ -84,7 +85,9 @@ The dataset contains retail customer purchasing information including:
 
 ## 📂 Project Structure
 
-<img width="971" height="810" alt="image" src="YOUR_IMAGE_LINK">
+<img width="971" height="810" alt="image" src="https://github.com/user-attachments/assets/a7932fed-9d4f-46f4-9370-ffe0a345ffe1" />
+
+
 
 ---
 
