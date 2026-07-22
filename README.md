@@ -3,7 +3,7 @@
 
 
 
-📌  **Project Overview**
+📌  #**Project Overview**
 
 This project is a complete end-to-end Customer Behavior Analytics solution that demonstrates how raw retail customer data can be transformed into meaningful business insights using Python, SQL, and Power BI.
 The objective of this project is to analyze customer purchasing behavior, identify high-value customer segments, understand shopping patterns, and provide data-driven recommendations that can improve customer retention and business performance.
