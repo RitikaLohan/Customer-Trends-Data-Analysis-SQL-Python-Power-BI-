@@ -2,24 +2,38 @@
 # Customer Behavior Analytics Dashboard ( SQL + Python + Power BI)
 
 📌  **Project Overview**
+
 This project is a complete end-to-end Customer Behavior Analytics solution that demonstrates how raw retail customer data can be transformed into meaningful business insights using Python, SQL, and Power BI.
 The objective of this project is to analyze customer purchasing behavior, identify high-value customer segments, understand shopping patterns, and provide data-driven recommendations that can improve customer retention and business performance.
 
 ***This project follows the complete analytics lifecycle including:***
+
 •	Data Collection
+
 •	Data Cleaning & Preprocessing
+
 •	Exploratory Data Analysis (EDA)
+
 •	SQL Business Analysis
+
 •	Interactive Power BI Dashboard
+
 •	Business Insights & Recommendations
 
 🎯 ***Business Problem***
+
 Retail businesses collect large volumes of customer transaction data but often struggle to convert that data into actionable insights.
+
 This project answers important business questions such as:
+
 •	Who are the most valuable customers?
+
 •	Which customer segments generate the highest revenue?
+
 •	What factors influence purchasing behavior?
+
 •	Which product categories perform best?
+
 •	How can customer loyalty be improved?
 
 🛠️ ***Tech Stack***
